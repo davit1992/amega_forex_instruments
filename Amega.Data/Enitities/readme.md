@@ -1,0 +1,1 @@
+Here shold be our EF Core entityies(DB table models)

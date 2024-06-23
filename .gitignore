@@ -1,0 +1,9 @@
+/.vs
+/Amega.Api/obj
+/Amega.Api/bin
+/Amega.Service/obj
+/Amega.Service/bin
+/Amega.Repo/obj
+/Amega.Repo/bin
+/Amega.Data/obj
+/Amega.Data/bin

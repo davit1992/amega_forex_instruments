@@ -1,0 +1,1 @@
+Here we can configure our migrations using IEntityTypeConfiguration<T> interface

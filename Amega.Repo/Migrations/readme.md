@@ -1,0 +1,1 @@
+Here shold be our EF Core code first migrations
