@@ -1,4 +1,4 @@
-**Our project is structured using ONION architecture here we have 4 layes Data, Repo, Service and Api
+**Our project is structured using ONION architecture here we have 4 layes Data, Repo, Service and Api**
 
 - 1)Data layer for
 	Entity types, Value objects, Enums etc.
@@ -24,3 +24,6 @@
 we also can implement Clean architecture using CQRS, DDD, paterns
 in the future if our project will be bigger we can structured microservice architechture and we can use CQRS, DDD, Outbox-Inbox, etc. paterns
 we also can use RabbitMQ, or Kafka for microservicies comunication
+
+**How to run project**
+The project was dockerized and for start it we shold have docker instaled in you local cumputer
